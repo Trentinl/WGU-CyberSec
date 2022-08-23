@@ -25,10 +25,11 @@
 
 
 
-## 1) OS Detection
+## 1) Class List
 
 | Code     | Subject   | Course Title                        | Course Level    |  Unit    |
 |:---------|:----------|:------------------------------------|:----------------|:---------|
+|          |           |                                     |                 |          |
 | **C168** | PHIL      | Critical Thinking and Logic         | Upper Division  |  3       |
 | **C836** | ITAS      | Fund of Information Security        | Lower Division  |  3       |
 | **C846** | ITEC      | Business of IT - Applications       | Lower Division  |  4       |
@@ -63,7 +64,7 @@
 | **C768** | ITEC      | Technical Communication             | Lower Division  |  3       |
 | **D153** | ITAS      | Penetration Testing                 | Lower Division  |  4       |
 | **C769** | ITEC      | IT Capstone Written Project         | Upper Division  |  4       |
-|:---------|:----------|:------------------------------------|:----------------|:---------|
+
 
 
 
