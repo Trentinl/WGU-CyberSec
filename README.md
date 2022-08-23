@@ -3,7 +3,7 @@
    
 ---
 
-### Course Index:
+### Index:
 - 1) [**`Class List`**](https://github.com/Yuma-Tsushima07/Hacking-Handbook/blob/main/Tasks/Introduction.md)
 - 2) [**`Class List`**](https://github.com/Yuma-Tsushima07/Hacking-Handbook/blob/main/Tasks/Introduction.md)
 - 3) [**`Class List`**](https://github.com/Yuma-Tsushima07/Hacking-Handbook/blob/main/Tasks/Introduction.md)
@@ -19,7 +19,7 @@
 
 ---
 
-## 1) Class List
+## 1) Course List
 
 | Code     | Subject   | Course Title                        | Course Level    |  Unit    |
 |:---------|:----------|:------------------------------------|:----------------|:---------|
