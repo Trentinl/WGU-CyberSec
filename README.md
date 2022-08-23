@@ -4,7 +4,7 @@
 ---
 
 ### Index:
-- [**`Introduction`**](https://github.com/Yuma-Tsushima07/Hacking-Handbook/blob/main/Tasks/Introduction.md)
+- [**`Introduction`**](https://github.com/Trentinl/WGU-CyberSec/blob/main/Introduction.md)
 - [**`ITAS`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITAS)
 - [**`ITEC`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITEC)
 - [**`ITWD`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITWD)
