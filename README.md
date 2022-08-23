@@ -5,31 +5,31 @@
 
 ### Index:
 
-- [**`ITAS`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITAS)
-- [**`ITEC`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITEC)
-- [**`ITWD`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITWD)
-- [**`COMM`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/COMM)
-- [**`PHIL`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/PHIL)
-- [**`HUMN`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/HUMN)
-- [**`POLS`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/POLS)
-- [**`MATH`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/MATH)
-- [**`ENGL`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ENGL)
-- [**`GEOG`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/GEOG)
-- [**`SCIE`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/SCIE)
+- [**ITAS**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITAS)
+- [**ITEC**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITEC)
+- [**ITWD**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITWD)
+- [**COMM**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/COMM)
+- [**PHIL**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/PHIL)
+- [**HUMN**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/HUMN)
+- [**POLS**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/POLS)
+- [**MATH**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/MATH)
+- [**ENGL**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ENGL)
+- [**GEOG**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/GEOG)
+- [**SCIE**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/SCIE)
 
 ---
 
 ### Resources
-- [**`Main Page`**](https://my.wgu.edu/)
-- [**`Facebook Page`**](https://www.facebook.com/wgu.edu/)
-- [**`Reddit`**](https://www.reddit.com/r/WGU/)
-- [**`Unofficial Discord`**](https://discord.gg/unwgu)
-- [**`Software for students`**](https://wgudreamspark.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=f4b2ea63-9ba9-e511-9413-b8ca3a5db7a1)
-- [**`Pluralsight`**](https://lrps.wgu.edu/provision/114583870)
-- [**`Skillsoft`**](https://lrps.wgu.edu/provision/102605)
-- [**`Lynda`**](https://lrps.wgu.edu/provision/180843482)
-- [**`GitHub Student Pack`**](https://education.github.com/pack#offers)
-- [**`Azure Student Pack`**](https://azure.microsoft.com/en-us/offers/ms-azr-0144p/)
+- [**Main Page**](https://my.wgu.edu/)
+- [**Reddit**](https://www.reddit.com/r/WGU/)
+- [**Unofficial Discord**](https://discord.gg/unwgu)
+- [**Software for students**](https://wgudreamspark.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=f4b2ea63-9ba9-e511-9413-b8ca3a5db7a1)
+- [**GitHub Student Pack**](https://education.github.com/pack#offers)
+- [**Azure Student Pack**](https://azure.microsoft.com/en-us/offers/ms-azr-0144p/)
+- [**Pluralsight**](https://lrps.wgu.edu/provision/114583870)
+- [**Skillsoft**](https://lrps.wgu.edu/provision/102605)
+- [**Lynda**](https://lrps.wgu.edu/provision/180843482)
+
 
 
 
