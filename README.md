@@ -30,8 +30,7 @@
 - [**Skillsoft**](https://lrps.wgu.edu/provision/102605)
 - [**Lynda**](https://lrps.wgu.edu/provision/180843482)
 
-
-
+---
 
 ## Course List
 
