@@ -4,18 +4,18 @@
 ---
 
 ### Index:
-- 1) [**`Introduction`**](https://github.com/Yuma-Tsushima07/Hacking-Handbook/blob/main/Tasks/Introduction.md)
-- 2) [**`ITAS`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITAS)
-- 3) [**`ITEC`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITEC)
-- 4) [**`ITWD`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITWD)
-- 5) [**`COMM`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/COMM)
-- 6) [**`PHIL`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/PHIL)
-- 7) [**`HUMN`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/HUMN)
-- 8) [**`POLS`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/POLS)
-- 9) [**`MATH`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/MATH)
-- 10) [**`ENGL`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ENGL)
-- 11) [**`GEOG`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/GEOG)
-- 12) [**`SCIE`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/SCIE)
+- [**`Introduction`**](https://github.com/Yuma-Tsushima07/Hacking-Handbook/blob/main/Tasks/Introduction.md)
+- [**`ITAS`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITAS)
+- [**`ITEC`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITEC)
+- [**`ITWD`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ITWD)
+- [**`COMM`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/COMM)
+- [**`PHIL`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/PHIL)
+- [**`HUMN`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/HUMN)
+- [**`POLS`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/POLS)
+- [**`MATH`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/MATH)
+- [**`ENGL`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/ENGL)
+- [**`GEOG`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/GEOG)
+- [**`SCIE`**](https://github.com/Trentinl/WGU-CyberSec/tree/main/root/SCIE)
 
 ---
 
