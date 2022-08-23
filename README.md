@@ -19,7 +19,7 @@
 
 ---
 
-## 1) Course List
+## Course List
 
 | Code     | Subject   | Course Title                        | Course Level    |  Unit    |
 |:---------|:----------|:------------------------------------|:----------------|:---------|
