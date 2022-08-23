@@ -19,7 +19,7 @@
 
 ---
 
-### Resources
+### Resources:
 - [**Main Page**](https://my.wgu.edu/)
 - [**Reddit**](https://www.reddit.com/r/WGU/)
 - [**Unofficial Discord**](https://discord.gg/unwgu)
