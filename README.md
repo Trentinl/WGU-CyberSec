@@ -24,7 +24,7 @@
 - [**Reddit**](https://www.reddit.com/r/WGU/)
 - [**Unofficial Discord**](https://discord.gg/unwgu)
 - [**Software for students**](https://wgudreamspark.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&cmi_mnuMain=f4b2ea63-9ba9-e511-9413-b8ca3a5db7a1)
-- [**GitHub Student Pack**](https://education.github.com/pack#offers)
+- [**GitHub Student Pack**](https://education.github.com/pack)
 - [**Azure Student Pack**](https://azure.microsoft.com/en-us/offers/ms-azr-0144p/)
 - [**Pluralsight**](https://lrps.wgu.edu/provision/114583870)
 - [**Skillsoft**](https://lrps.wgu.edu/provision/102605)
