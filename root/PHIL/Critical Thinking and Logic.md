@@ -2,12 +2,12 @@
 ---
 
 ## Introduction
-<br>
+
  The goal of this course is to encourage techniques that increase knowledge and application of a systematic process for exploring issues that take you beyond an unexamined point of view. As you come to understand aspects of critical thinking, you will find yourself consciously monitoring your thinking in order to improve how you think. As you become a more self-aware thinker, you will learn to balance a healthy skepticism with an intellectual humility that discourages premature closure on the issues you seek to understand.
 ---
 
  ## Compentencies
-<br>
+
  This course provides guidance to help you demonstrate the following 6 competencies:
 
     - Competency 1007.1.4: Problem Identification and Clarification
